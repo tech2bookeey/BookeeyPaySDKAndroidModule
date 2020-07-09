@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_color">#C61920</color>
+    <color name="colorPrimary">#C61920</color>
+    <color name="colorPrimaryDark">#004967</color>
+    <color name="colorAccent">#E91E63</color>
+
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="gold">#c4191f</color>
+    <color name="toolbar_title_color">#ffffff</color>
+    <color name="toolbar_background_color">#C61920</color>
+</resources>

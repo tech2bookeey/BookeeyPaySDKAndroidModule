@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bookeey.bookeeypaysdk_library_module">
+<uses-permission android:name="android.permission.INTERNET" />
+
+<application>
+<activity android:name=".MainInitActivity"></activity>
+<activity android:name=".WebViewActivity"></activity>
+</application>
+</manifest>
